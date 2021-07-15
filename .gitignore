@@ -1,0 +1,6 @@
+# dependencias
+./node_modules
+
+#cypress
+cypress/videos
+cypress/screenshots
